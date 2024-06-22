@@ -15,8 +15,7 @@ The repository includes the code implementation in Mimi, the rationale behind th
 
 1. **[M3_Code.ipynb](Code/M3_Code.ipynb)**: Main implementation of the AD-DICE model.
 2. **[Extension.ipynb](Code/Extension.ipynb)**: Extension implementation of the AD-DICE model.
-3. **[Extension2.ipynb](Code/Extension2.ipynb)**: Additional extensions and modifications.
-4. **[plots.ipynb](Code/plots.ipynb)**: Plots and visualizations for the AD-DICE model and its extensions.
+3. **[plots.ipynb](Code/plots.ipynb)**: Plots and visualizations for the AD-DICE model and its extensions.
 
 ## Julia Components
 
